@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a799512-6877-42a3-9130-5a8ae289eda5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-3 - Basis Statistik/2_BasicStatitics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2-3 - Basis Statistik/2_BasicStatitics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 - Visualization II/8 - MatPlotLib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/6 - Visualization II/8 - MatPlotLib.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7 - Modelling/ModellierungBasics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7 - Modelling/ModellierungBasics.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="3a799512-6877-42a3-9130-5a8ae289eda5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639458923084</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1679570638706</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679570638706</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -194,7 +196,7 @@
     <entry file="file://$PROJECT_DIR$/1 - Einfuehrung in Python/1_Python101.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="3" />
         </state>
       </provider>
     </entry>
