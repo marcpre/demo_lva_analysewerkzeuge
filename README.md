@@ -17,5 +17,3 @@
 
 ## TODOs:
 * Add TOC
-
-
