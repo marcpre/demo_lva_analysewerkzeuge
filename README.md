@@ -14,6 +14,3 @@
 `nbmerge file_1.ipynb file_2.ipynb file_3.ipynb > merged.ipynb`
 
 [nbmerge](https://github.com/jbn/nbmerge)
-
-## TODOs:
-* Add TOC
