@@ -17,10 +17,7 @@
 
 ## TODOs:
 * Add TOC
-
-
-
-
+* Update jupyter
 
 
 
